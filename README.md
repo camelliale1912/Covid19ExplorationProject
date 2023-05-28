@@ -13,7 +13,7 @@
 
 
 ## Summary of Project
-The project involved analyzing data from two tables, CovidDeaths and CovidVaccinations, in SQL Server Management Studio to gain insights into the COVID-19 situation in the years 2020 and 2021.
+The project involved analyzing data from two tables, **CovidDeaths** and **CovidVaccinations**, in SQL Server Management Studio to gain insights into the COVID-19 situation in the years 2020 and 2021.
 
 The analysis started with an overview of the data from the CovidDeaths table, including information about the continent, location, date, total cases, new cases, total deaths, and population. The data was sorted by different criteria to provide a comprehensive view of the COVID-19 situation.
 
@@ -76,5 +76,5 @@ Used in conjunction with aggregate functions to divide rows into partitions base
 Partition by dea.Location, Order by dea.location, dea.Date: Defines the partition for the rolling number of vaccinated individuals based on location and ordered by location and date.*
 
 ## Licensing, Authors, Acknowledgements
-Data is collected from [Our World in Data](https://ourworldindata.org/coronavirus/)
+Data is collected from [Our World in Data](https://ourworldindata.org/coronavirus/).
 
