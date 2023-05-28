@@ -74,3 +74,6 @@ PercentPopulationVaccinated: A view created to store data for later visualizatio
 Used in conjunction with aggregate functions to divide rows into partitions based on specified criteria. 
 <br /> *Example:
 Partition by dea.Location, Order by dea.location, dea.Date: Defines the partition for the rolling number of vaccinated individuals based on location and ordered by location and date.*
+
+## Licensing, Authors, Acknowledgements
+Data is collected from Our World in Data[https://ourworldindata.org/coronavirus/]
