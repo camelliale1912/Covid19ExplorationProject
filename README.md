@@ -29,7 +29,7 @@ Used in multiple queries to retrieve specific columns from the tables.
 
 **Aggregate function:**
 Used in various queries to perform calculations on a set of rows.
-*Examples:
+<bt /> *Examples:
 MAX: Used to find the maximum value (e.g., MAX(total_cases)).
 SUM: Used to calculate the sum of values (e.g., SUM(new_cases)).*
 
