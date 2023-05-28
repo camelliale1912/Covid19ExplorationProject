@@ -1,5 +1,5 @@
 
-/* Overview of the data from CovidDeaths table
+-- Overview of the data from CovidDeaths table
 Select *
 From CovidDeaths
 Where continent is not null 
