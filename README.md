@@ -20,9 +20,11 @@ The analysis started with an overview of the data from the CovidDeaths table, in
 The analysis then focused on specific aspects, such as the comparison of total cases and total deaths in the United States, as well as the relationship between total cases and population in the United States. These queries provided valuable information about the impact of COVID-19 in the country.
 
 ## Datasets
--`CovidDeaths.csv` - Uncleaned dataset focused on COVID-19 cases and deaths, providing detailed information on the number of confirmed cases, new cases, total deaths, and daily deaths from 2020-2021 scraped from Our World in Data website.
+<ul>
+<li>`CovidDeaths.csv` - Uncleaned dataset focused on COVID-19 cases and deaths, providing detailed information on the number of confirmed cases, new cases, total deaths, and daily deaths from 2020-2021 scraped from Our World in Data website.</li>
 
--`CovidVaccinations.csv` - Uncleaned dataset concentrated on COVID-19 vaccinations, offering data on the number of vaccine doses administered, vaccination rates, and the distribution of vaccines across countries scraped from Our World in Data website.
+<li>`CovidVaccinations.csv` - Uncleaned dataset concentrated on COVID-19 vaccinations, offering data on the number of vaccine doses administered, vaccination rates, and the distribution of vaccines across countries scraped from Our World in Data website.</li>
+</ul>
 ## Technical Implementation: SQL Code Summary
 **Select statement:**
 Used in multiple queries to retrieve specific columns from the tables.
