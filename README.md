@@ -25,6 +25,7 @@ The analysis then focused on specific aspects, such as the comparison of total c
 
 <li>`CovidVaccinations.csv` - Uncleaned dataset concentrated on COVID-19 vaccinations, offering data on the number of vaccine doses administered, vaccination rates, and the distribution of vaccines across countries scraped from Our World in Data website.</li>
 </ul>
+
 ## Technical Implementation: SQL Code Summary
 **Select statement:**
 Used in multiple queries to retrieve specific columns from the tables.
